@@ -1,0 +1,8 @@
+.idea
+notebooks/.cache
+notebooks/.ipynb_checkpoints
+notebooks/.ipython
+notebooks/.jupyter
+notebooks/.local
+
+.DS_Store

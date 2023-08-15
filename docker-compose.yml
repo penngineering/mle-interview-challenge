@@ -1,0 +1,44 @@
+version: '3.7'
+services:
+    postgres:
+        build:
+          context: .
+          dockerfile: Dockerfile
+        restart: always
+        container_name: local_pg
+        environment:
+          - POSTGRES_USER=postgres
+          - POSTGRES_PASSWORD=postgres
+          - PGDATA=/var/lib/postgresql/data/pgdata
+        ports:
+          - '5432:5432'
+        volumes:
+          - pg-data:/var/lib/postgresql/data:Z
+          - ./sql/setup.sql:/docker-entrypoint-initdb.d/setup.sql:Z
+    pgadmin:
+        image: dpage/pgadmin4
+        restart: always
+        container_name: local_pgadmin
+        ports:
+          - "5050:80"
+        environment:
+          PGADMIN_DEFAULT_EMAIL: sports@sports.com
+          PGADMIN_DEFAULT_PASSWORD: sports
+          PGADMIN_CONFIG_SERVER_MODE: 'False'
+          PGADMIN_CONFIG_MASTER_PASSWORD_REQUIRED: 'False'
+        volumes:
+          - pgadmin-data:/var/lib/pgadmin
+    jupyter:
+      build:
+        context: .
+        dockerfile: Dockerfile.jupyter
+      container_name: jupyter
+      ports:
+        - "8888:8888"
+      volumes:
+        - ./notebooks:/home/jovyan
+      environment:
+        JUPYTER_TOKEN: sports
+volumes:
+  pg-data:
+  pgadmin-data:

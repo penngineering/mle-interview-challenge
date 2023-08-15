@@ -1,0 +1,246 @@
+"event_id","home_team","away_team","home_team_location","away_team_location","game_start_time","day_of_week","time_slot","game_day","week_start","week_of_season"
+"21598",Lucky Leopards,Hungry Harpys,Regensland,Regensland,2019-03-18 13:00:00.000,Monday   ,mon_early,2019-03-18 00:00:00.000,2019-03-12 00:00:00.000,8.0
+"21862",Pirate Poodles,Hopeful Hens,Flat Island,Springfield,2019-05-20 13:00:00.000,Monday   ,mon_early,2019-05-20 00:00:00.000,2019-05-14 00:00:00.000,17.0
+"50898",Lucky Leopards,Ramblin Rabbits,Regensland,Alterburg,2018-03-12 13:00:00.000,Monday   ,mon_early,2018-03-12 00:00:00.000,2018-03-06 00:00:00.000,7.0
+"36665",Bellicose Bluejays,Wonder Whales,Vistatown,Rose Station,2018-04-09 16:05:00.000,Monday   ,mon_mid,2018-04-09 00:00:00.000,2018-04-03 00:00:00.000,11.0
+"50982",Cyclic Cobras,Devious Dandys,Soot Mountain,Hillsville,2018-05-07 13:00:00.000,Monday   ,mon_early,2018-05-07 00:00:00.000,2018-05-01 00:00:00.000,15.0
+"51011",Bellicose Bluejays,Hungry Harpys,Vistatown,Regensland,2018-05-28 13:00:00.000,Monday   ,mon_early,2018-05-28 00:00:00.000,2018-05-22 00:00:00.000,18.0
+"50999",Terrible Ticks,Devilish Deer ,Boroughsville,Alterburg,2018-05-14 20:20:00.000,Monday   ,mon_late,2018-05-14 00:00:00.000,2018-05-08 00:00:00.000,16.0
+"21900",Cyclic Cobras,Terrible Ticks,Soot Mountain,Boroughsville,2019-06-11 17:00:00.000,Tuesday  ,tues,2019-06-11 00:00:00.000,2019-06-11 00:00:00.000,21.0
+"55503",Hungry Harpys,Terrible Ticks,Regensland,Boroughsville,2019-07-07 16:30:00.000,Sunday   ,sun,2019-07-07 00:00:00.000,2019-07-02 00:00:00.000,24.0
+"50988",Pirate Poodles,Earnest Eagles,Flat Island,Sunny Valley,2018-05-07 20:20:00.000,Monday   ,mon_late,2018-05-07 00:00:00.000,2018-05-01 00:00:00.000,15.0
+"50905",Intense Iguanas,Devilish Deer ,Spark City,Alterburg,2018-03-12 16:25:00.000,Monday   ,mon_mid,2018-03-12 00:00:00.000,2018-03-06 00:00:00.000,7.0
+"50994",Fleeting Felines,Lucky Leopards,Vistatown,Regensland,2018-05-14 13:00:00.000,Monday   ,mon_early,2018-05-14 00:00:00.000,2018-05-08 00:00:00.000,16.0
+"21604",Ramblin Rabbits,Wonder Whales,Alterburg,Rose Station,2019-03-18 16:05:00.000,Monday   ,mon_mid,2019-03-18 00:00:00.000,2019-03-12 00:00:00.000,8.0
+"21813",Lightning Lions,Wonder Whales,Springfield,Rose Station,2019-04-26 20:20:00.000,Friday   ,fri,2019-04-26 00:00:00.000,2019-04-23 00:00:00.000,14.0
+"21886",Devilish Deer ,Terrible Ticks,Alterburg,Boroughsville,2019-06-03 13:00:00.000,Monday   ,mon_early,2019-06-03 00:00:00.000,2019-05-28 00:00:00.000,19.0
+"50927",Hopeful Hens,Lucky Leopards,Springfield,Regensland,2018-03-23 18:00:00.000,Friday   ,fri,2018-03-23 00:00:00.000,2018-03-20 00:00:00.000,9.0
+"50959",Ramblin Rabbits,Devilish Deer ,Alterburg,Alterburg,2018-04-16 16:25:00.000,Monday   ,mon_mid,2018-04-16 00:00:00.000,2018-04-10 00:00:00.000,12.0
+"51046",Lucky Leopards,Lightning Lions,Regensland,Springfield,2018-06-18 13:00:00.000,Monday   ,mon_early,2018-06-18 00:00:00.000,2018-06-12 00:00:00.000,21.0
+"63285",Lucky Leopards,Pirate Poodles,Regensland,Flat Island,2020-03-09 13:00:00.000,Monday   ,mon_early,2020-03-09 00:00:00.000,2020-03-03 00:00:00.000,7.0
+"21576",Earnest Eagles,Devilish Deer ,Sunny Valley,Alterburg,2019-03-11 20:20:00.000,Monday   ,mon_late,2019-03-11 00:00:00.000,2019-03-05 00:00:00.000,7.0
+"21804",Wonder Whales,Hungry Harpys,Rose Station,Regensland,2019-04-22 13:00:00.000,Monday   ,mon_early,2019-04-22 00:00:00.000,2019-04-16 00:00:00.000,13.0
+"50985",Terrible Ticks,Ramblin Rabbits,Boroughsville,Alterburg,2018-05-07 16:05:00.000,Monday   ,mon_mid,2018-05-07 00:00:00.000,2018-05-01 00:00:00.000,15.0
+"21848",Snappy Snakes,Lightning Lions,Plainsboro,Springfield,2019-05-13 13:00:00.000,Monday   ,mon_early,2019-05-13 00:00:00.000,2019-05-07 00:00:00.000,16.0
+"21924",Terrible Ticks,Ramblin Rabbits,Boroughsville,Alterburg,2019-06-17 16:25:00.000,Monday   ,mon_mid,2019-06-17 00:00:00.000,2019-06-11 00:00:00.000,21.0
+"63273",Devious Dandys,Lightning Lions,Hillsville,Springfield,2020-03-02 13:00:00.000,Monday   ,mon_early,2020-03-02 00:00:00.000,2020-02-25 00:00:00.000,6.0
+"16558",Lucky Leopards,Hungry Harpys,Regensland,Regensland,2018-05-07 16:25:00.000,Monday   ,mon_mid,2018-05-07 00:00:00.000,2018-05-01 00:00:00.000,15.0
+"51057",Snappy Snakes,Bellicose Bluejays,Plainsboro,Vistatown,2018-06-25 13:00:00.000,Monday   ,mon_early,2018-06-25 00:00:00.000,2018-06-19 00:00:00.000,22.0
+"21874",Hungry Harpys,Intense Iguanas,Regensland,Spark City,2019-05-27 13:00:00.000,Monday   ,mon_early,2019-05-27 00:00:00.000,2019-05-21 00:00:00.000,18.0
+"50946",Lightning Lions,Hungry Harpys,Springfield,Regensland,2018-04-09 13:00:00.000,Monday   ,mon_early,2018-04-09 00:00:00.000,2018-04-03 00:00:00.000,11.0
+"51059",Ramblin Rabbits,Terrible Ticks,Alterburg,Boroughsville,2018-06-25 16:25:00.000,Monday   ,mon_mid,2018-06-25 00:00:00.000,2018-06-19 00:00:00.000,22.0
+"21842",Intense Iguanas,Lucky Leopards,Spark City,Regensland,2019-05-13 20:20:00.000,Monday   ,mon_late,2019-05-13 00:00:00.000,2019-05-07 00:00:00.000,16.0
+"21869",Devious Dandys,Lightning Lions,Hillsville,Springfield,2019-05-27 13:00:00.000,Monday   ,mon_early,2019-05-27 00:00:00.000,2019-05-21 00:00:00.000,18.0
+"63287",Ramblin Rabbits,Devious Dandys,Alterburg,Hillsville,2020-03-09 16:25:00.000,Monday   ,mon_mid,2020-03-09 00:00:00.000,2020-03-03 00:00:00.000,7.0
+"63281",Cyclic Cobras,Wonder Whales,Soot Mountain,Rose Station,2020-03-09 13:00:00.000,Monday   ,mon_early,2020-03-09 00:00:00.000,2020-03-03 00:00:00.000,7.0
+"63462",Earnest Eagles,Hungry Harpys,Sunny Valley,Regensland,2020-03-30 20:20:00.000,Monday   ,mon_late,2020-03-30 00:00:00.000,2020-03-24 00:00:00.000,10.0
+"23182",Intense Iguanas,Wonder Whales,Spark City,Rose Station,2018-05-14 16:05:00.000,Monday   ,mon_mid,2018-05-14 00:00:00.000,2018-05-08 00:00:00.000,16.0
+"51056",Hungry Harpys,Earnest Eagles,Regensland,Sunny Valley,2018-06-25 13:00:00.000,Monday   ,mon_early,2018-06-25 00:00:00.000,2018-06-19 00:00:00.000,22.0
+"21884",Hopeful Hens,Fleeting Felines,Springfield,Vistatown,2019-06-03 13:00:00.000,Monday   ,mon_early,2019-06-03 00:00:00.000,2019-05-28 00:00:00.000,19.0
+"63271",Hungry Harpys,Lucky Leopards,Regensland,Regensland,2020-03-02 13:00:00.000,Monday   ,mon_early,2020-03-02 00:00:00.000,2020-02-25 00:00:00.000,6.0
+"50931",Devilish Deer ,Terrible Ticks,Alterburg,Boroughsville,2018-04-02 13:00:00.000,Monday   ,mon_early,2018-04-02 00:00:00.000,2018-03-27 00:00:00.000,10.0
+"36501",Snappy Snakes,Devilish Deer ,Plainsboro,Alterburg,2018-04-10 17:00:00.000,Tuesday  ,tues,2018-04-10 00:00:00.000,2018-04-10 00:00:00.000,12.0
+"16563",Lightning Lions,Fleeting Felines,Springfield,Vistatown,2018-06-25 16:25:00.000,Monday   ,mon_mid,2018-06-25 00:00:00.000,2018-06-19 00:00:00.000,22.0
+"21955",Earnest Eagles,Lucky Leopards,Sunny Valley,Regensland,2019-07-01 13:00:00.000,Monday   ,mon_early,2019-07-01 00:00:00.000,2019-06-25 00:00:00.000,23.0
+"55502",Snappy Snakes,Pirate Poodles,Plainsboro,Flat Island,2019-07-07 20:15:00.000,Sunday   ,sun,2019-07-07 00:00:00.000,2019-07-02 00:00:00.000,24.0
+"51012",Hopeful Hens,Cyclic Cobras,Springfield,Soot Mountain,2018-05-28 13:00:00.000,Monday   ,mon_early,2018-05-28 00:00:00.000,2018-05-22 00:00:00.000,18.0
+"33708",Snappy Snakes,Earnest Eagles,Plainsboro,Sunny Valley,2018-07-08 20:15:00.000,Sunday   ,sun,2018-07-08 00:00:00.000,2018-07-03 00:00:00.000,24.0
+"63209",Bellicose Bluejays,Pirate Poodles,Vistatown,Flat Island,2020-03-02 13:00:00.000,Monday   ,mon_early,2020-03-02 00:00:00.000,2020-02-25 00:00:00.000,6.0
+"21782",Pirate Poodles,Wonder Whales,Flat Island,Rose Station,2019-04-15 13:00:00.000,Monday   ,mon_early,2019-04-15 00:00:00.000,2019-04-09 00:00:00.000,12.0
+"21904",Fleeting Felines,Devious Dandys,Vistatown,Hillsville,2019-06-10 13:00:00.000,Monday   ,mon_early,2019-06-10 00:00:00.000,2019-06-04 00:00:00.000,20.0
+"21933",Hungry Harpys,Devilish Deer ,Regensland,Alterburg,2019-06-24 13:00:00.000,Monday   ,mon_early,2019-06-24 00:00:00.000,2019-06-18 00:00:00.000,22.0
+"63501",Lightning Lions,Hopeful Hens,Springfield,Springfield,2020-03-23 13:00:00.000,Monday   ,mon_early,2020-03-23 00:00:00.000,2020-03-17 00:00:00.000,9.0
+"21585",Cyclic Cobras,Devious Dandys,Soot Mountain,Hillsville,2019-03-11 13:00:00.000,Monday   ,mon_early,2019-03-11 00:00:00.000,2019-03-05 00:00:00.000,7.0
+"21783",Hopeful Hens,Devilish Deer ,Springfield,Alterburg,2019-04-15 13:00:00.000,Monday   ,mon_early,2019-04-15 00:00:00.000,2019-04-09 00:00:00.000,12.0
+"55501",Devilish Deer ,Lucky Leopards,Alterburg,Regensland,2019-07-08 20:15:00.000,Monday   ,mon_late,2019-07-08 00:00:00.000,2019-07-02 00:00:00.000,24.0
+"51029",Snappy Snakes,Lucky Leopards,Plainsboro,Regensland,2018-06-04 20:20:00.000,Monday   ,mon_late,2018-06-04 00:00:00.000,2018-05-29 00:00:00.000,19.0
+"63291",Pirate Poodles,Earnest Eagles,Flat Island,Sunny Valley,2020-03-16 13:00:00.000,Monday   ,mon_early,2020-03-16 00:00:00.000,2020-03-10 00:00:00.000,8.0
+"50933",Devious Dandys,Fleeting Felines,Hillsville,Vistatown,2018-04-02 18:00:00.000,Monday   ,mon_mid,2018-04-02 00:00:00.000,2018-03-27 00:00:00.000,10.0
+"50966",Cyclic Cobras,Terrible Ticks,Soot Mountain,Boroughsville,2018-04-23 13:00:00.000,Monday   ,mon_early,2018-04-23 00:00:00.000,2018-04-17 00:00:00.000,13.0
+"51026",Terrible Ticks,Lightning Lions,Boroughsville,Springfield,2018-06-04 16:05:00.000,Monday   ,mon_mid,2018-06-04 00:00:00.000,2018-05-29 00:00:00.000,19.0
+"21776",Hopeful Hens,Snappy Snakes,Springfield,Plainsboro,2019-04-09 20:15:00.000,Tuesday  ,tues,2019-04-09 00:00:00.000,2019-04-09 00:00:00.000,12.0
+"21931",Pirate Poodles,Fleeting Felines,Flat Island,Vistatown,2019-06-24 13:00:00.000,Monday   ,mon_early,2019-06-24 00:00:00.000,2019-06-18 00:00:00.000,22.0
+"63494",Lucky Leopards,Wonder Whales,Regensland,Rose Station,2020-03-23 13:02:19.343,Monday   ,mon_early,2020-03-23 00:00:00.000,2020-03-17 00:00:00.000,9.0
+"63514",Terrible Ticks,Ramblin Rabbits,Boroughsville,Alterburg,2020-03-23 16:25:00.000,Monday   ,mon_mid,2020-03-23 00:00:00.000,2020-03-17 00:00:00.000,9.0
+"63460",Devilish Deer ,Terrible Ticks,Alterburg,Boroughsville,2020-03-31 20:15:00.000,Tuesday  ,tues,2020-03-31 00:00:00.000,2020-03-31 00:00:00.000,11.0
+"51058",Devious Dandys,Hopeful Hens,Hillsville,Springfield,2018-06-25 16:25:00.000,Monday   ,mon_mid,2018-06-25 00:00:00.000,2018-06-19 00:00:00.000,22.0
+"21859",Devious Dandys,Wonder Whales,Hillsville,Rose Station,2019-05-20 13:00:00.000,Monday   ,mon_early,2019-05-20 00:00:00.000,2019-05-14 00:00:00.000,17.0
+"21878",Lucky Leopards,Earnest Eagles,Regensland,Sunny Valley,2019-05-27 16:25:00.000,Monday   ,mon_mid,2019-05-27 00:00:00.000,2019-05-21 00:00:00.000,18.0
+"63517",Snappy Snakes,Lucky Leopards,Plainsboro,Regensland,2020-03-30 13:00:00.000,Monday   ,mon_early,2020-03-30 00:00:00.000,2020-03-24 00:00:00.000,10.0
+"16560",Devilish Deer ,Pirate Poodles,Alterburg,Flat Island,2018-03-26 16:25:00.000,Monday   ,mon_mid,2018-03-26 00:00:00.000,2018-03-20 00:00:00.000,9.0
+"21889",Cyclic Cobras,Earnest Eagles,Soot Mountain,Sunny Valley,2019-06-03 13:00:00.000,Monday   ,mon_early,2019-06-03 00:00:00.000,2019-05-28 00:00:00.000,19.0
+"50976",Fleeting Felines,Devious Dandys,Vistatown,Hillsville,2018-04-30 13:00:00.000,Monday   ,mon_early,2018-04-30 00:00:00.000,2018-04-24 00:00:00.000,14.0
+"19075",Devilish Deer ,Cyclic Cobras,Alterburg,Soot Mountain,2019-03-04 16:25:00.000,Monday   ,mon_mid,2019-03-04 00:00:00.000,2019-02-26 00:00:00.000,6.0
+"63481",Lightning Lions,Fleeting Felines,Springfield,Vistatown,2020-04-06 13:00:00.000,Monday   ,mon_early,2020-04-06 00:00:00.000,2020-03-31 00:00:00.000,11.0
+"27557",Pirate Poodles,Ramblin Rabbits,Flat Island,Alterburg,2018-04-09 13:00:00.000,Monday   ,mon_early,2018-04-09 00:00:00.000,2018-04-03 00:00:00.000,11.0
+"51054",Cyclic Cobras,Lucky Leopards,Soot Mountain,Regensland,2018-06-25 13:00:00.000,Monday   ,mon_early,2018-06-25 00:00:00.000,2018-06-19 00:00:00.000,22.0
+"98584",Hungry Harpys,Bellicose Bluejays,Regensland,Vistatown,2019-02-18 16:00:00.000,Monday   ,mon_mid,2019-02-18 00:00:00.000,2019-02-12 00:00:00.000,4.0
+"21952",Bellicose Bluejays,Pirate Poodles,Vistatown,Flat Island,2019-07-01 16:25:00.000,Monday   ,mon_mid,2019-07-01 00:00:00.000,2019-06-25 00:00:00.000,23.0
+"68086",Wonder Whales,Bellicose Bluejays,Rose Station,Vistatown,2020-03-30 13:00:00.000,Monday   ,mon_early,2020-03-30 00:00:00.000,2020-03-24 00:00:00.000,10.0
+"50937",Earnest Eagles,Hungry Harpys,Sunny Valley,Regensland,2018-04-02 13:00:00.000,Monday   ,mon_early,2018-04-02 00:00:00.000,2018-03-27 00:00:00.000,10.0
+"16495",Devilish Deer ,Wonder Whales,Alterburg,Rose Station,2018-04-23 13:00:00.000,Monday   ,mon_early,2018-04-23 00:00:00.000,2018-04-17 00:00:00.000,13.0
+"21611",Hungry Harpys,Fleeting Felines,Regensland,Vistatown,2019-03-22 20:20:00.000,Friday   ,fri,2019-03-22 00:00:00.000,2019-03-19 00:00:00.000,9.0
+"22882",Lightning Lions,Wonder Whales,Springfield,Rose Station,2018-03-19 16:05:00.000,Monday   ,mon_mid,2018-03-19 00:00:00.000,2018-03-13 00:00:00.000,8.0
+"50992",Earnest Eagles,Hopeful Hens,Sunny Valley,Springfield,2018-05-14 13:00:00.000,Monday   ,mon_early,2018-05-14 00:00:00.000,2018-05-08 00:00:00.000,16.0
+"21733",Ramblin Rabbits,Terrible Ticks,Alterburg,Boroughsville,2019-04-08 16:25:00.000,Monday   ,mon_mid,2019-04-08 00:00:00.000,2019-04-02 00:00:00.000,11.0
+"21897",Intense Iguanas,Devilish Deer ,Spark City,Alterburg,2019-06-07 20:20:00.000,Friday   ,fri,2019-06-07 00:00:00.000,2019-06-04 00:00:00.000,20.0
+"21921",Hungry Harpys,Earnest Eagles,Regensland,Sunny Valley,2019-06-17 13:00:00.000,Monday   ,mon_early,2019-06-17 00:00:00.000,2019-06-11 00:00:00.000,21.0
+"63290",Lightning Lions,Devilish Deer ,Springfield,Alterburg,2020-03-16 13:00:00.000,Monday   ,mon_early,2020-03-16 00:00:00.000,2020-03-10 00:00:00.000,8.0
+"50944",Hopeful Hens,Devious Dandys,Springfield,Hillsville,2018-04-09 13:00:00.000,Monday   ,mon_early,2018-04-09 00:00:00.000,2018-04-03 00:00:00.000,11.0
+"16276",Snappy Snakes,Lightning Lions,Plainsboro,Springfield,2018-07-01 13:05:00.000,Sunday   ,sun,2018-07-01 00:00:00.000,2018-06-26 00:00:00.000,23.0
+"21618",Snappy Snakes,Devious Dandys,Plainsboro,Hillsville,2019-03-25 13:00:00.000,Monday   ,mon_early,2019-03-25 00:00:00.000,2019-03-19 00:00:00.000,9.0
+"21641",Devilish Deer ,Snappy Snakes,Alterburg,Plainsboro,2019-04-01 20:20:00.000,Monday   ,mon_late,2019-04-01 00:00:00.000,2019-03-26 00:00:00.000,10.0
+"21846",Wonder Whales,Bellicose Bluejays,Rose Station,Vistatown,2019-05-13 13:00:00.000,Monday   ,mon_early,2019-05-13 00:00:00.000,2019-05-07 00:00:00.000,16.0
+"71766",Devilish Deer ,Snappy Snakes,Alterburg,Plainsboro,2019-07-15 18:30:00.000,Monday   ,mon_mid,2019-07-15 00:00:00.000,2019-07-09 00:00:00.000,25.0
+"79125",Fleeting Felines,Cyclic Cobras,Vistatown,Soot Mountain,2020-02-01 19:00:00.000,Saturday ,odd_days,2020-02-01 00:00:00.000,2020-01-28 00:00:00.000,2.0
+"63530",Wonder Whales,Hungry Harpys,Rose Station,Regensland,2020-03-16 13:00:00.000,Monday   ,mon_early,2020-03-16 00:00:00.000,2020-03-10 00:00:00.000,8.0
+"63509",Cyclic Cobras,Intense Iguanas,Soot Mountain,Spark City,2020-03-30 13:00:00.000,Monday   ,mon_early,2020-03-30 00:00:00.000,2020-03-24 00:00:00.000,10.0
+"21807",Cyclic Cobras,Lucky Leopards,Soot Mountain,Regensland,2019-04-22 13:00:00.000,Monday   ,mon_early,2019-04-22 00:00:00.000,2019-04-16 00:00:00.000,13.0
+"21820",Bellicose Bluejays,Devious Dandys,Vistatown,Hillsville,2019-04-29 13:00:00.000,Monday   ,mon_early,2019-04-29 00:00:00.000,2019-04-23 00:00:00.000,14.0
+"21818",Hungry Harpys,Cyclic Cobras,Regensland,Soot Mountain,2019-04-29 13:00:00.000,Monday   ,mon_early,2019-04-29 00:00:00.000,2019-04-23 00:00:00.000,14.0
+"63526",Hopeful Hens,Terrible Ticks,Springfield,Boroughsville,2020-03-16 13:00:00.000,Monday   ,mon_early,2020-03-16 00:00:00.000,2020-03-10 00:00:00.000,8.0
+"21597",Devilish Deer ,Intense Iguanas,Alterburg,Spark City,2019-03-18 13:00:00.000,Monday   ,mon_early,2019-03-18 00:00:00.000,2019-03-12 00:00:00.000,8.0
+"54307",Snappy Snakes,Hopeful Hens,Plainsboro,Springfield,2020-03-10 19:15:00.000,Tuesday  ,tues,2020-03-10 00:00:00.000,2020-03-10 00:00:00.000,8.0
+"50912",Lucky Leopards,Devious Dandys,Regensland,Hillsville,2018-03-19 13:00:00.000,Monday   ,mon_early,2018-03-19 00:00:00.000,2018-03-13 00:00:00.000,8.0
+"19077",Pirate Poodles,Bellicose Bluejays,Flat Island,Vistatown,2019-03-04 16:25:00.000,Monday   ,mon_mid,2019-03-04 00:00:00.000,2019-02-26 00:00:00.000,6.0
+"21839",Terrible Ticks,Hungry Harpys,Boroughsville,Regensland,2019-05-13 16:05:00.000,Monday   ,mon_mid,2019-05-13 00:00:00.000,2019-05-07 00:00:00.000,16.0
+"51031",Terrible Ticks,Intense Iguanas,Boroughsville,Spark City,2018-06-08 20:20:00.000,Friday   ,fri,2018-06-08 00:00:00.000,2018-06-05 00:00:00.000,20.0
+"48719",Intense Iguanas,Fleeting Felines,Spark City,Vistatown,2018-04-16 16:25:00.000,Monday   ,mon_mid,2018-04-16 00:00:00.000,2018-04-10 00:00:00.000,12.0
+"48747",Earnest Eagles,Lucky Leopards,Sunny Valley,Regensland,2018-04-23 13:00:00.000,Monday   ,mon_early,2018-04-23 00:00:00.000,2018-04-17 00:00:00.000,13.0
+"16554",Pirate Poodles,Snappy Snakes,Flat Island,Plainsboro,2018-06-19 20:15:00.000,Tuesday  ,tues,2018-06-19 00:00:00.000,2018-06-19 00:00:00.000,22.0
+"21612",Wonder Whales,Hopeful Hens,Rose Station,Springfield,2019-03-25 13:00:00.000,Monday   ,mon_early,2019-03-25 00:00:00.000,2019-03-19 00:00:00.000,9.0
+"79124",Snappy Snakes,Lightning Lions,Plainsboro,Springfield,2020-02-02 16:00:00.000,Sunday   ,sun,2020-02-02 00:00:00.000,2020-01-28 00:00:00.000,2.0
+"63470",Devilish Deer ,Snappy Snakes,Alterburg,Plainsboro,2020-04-06 16:25:00.000,Monday   ,mon_mid,2020-04-06 00:00:00.000,2020-03-31 00:00:00.000,11.0
+"50906",Devious Dandys,Earnest Eagles,Hillsville,Sunny Valley,2018-03-12 16:25:00.000,Monday   ,mon_mid,2018-03-12 00:00:00.000,2018-03-06 00:00:00.000,7.0
+"16561",Lightning Lions,Devious Dandys,Springfield,Hillsville,2018-06-11 13:00:00.000,Monday   ,mon_early,2018-06-11 00:00:00.000,2018-06-05 00:00:00.000,20.0
+"21797",Intense Iguanas,Pirate Poodles,Spark City,Flat Island,2019-04-22 16:05:00.000,Monday   ,mon_mid,2019-04-22 00:00:00.000,2019-04-16 00:00:00.000,13.0
+"21796",Snappy Snakes,Bellicose Bluejays,Plainsboro,Vistatown,2019-04-22 13:00:00.000,Monday   ,mon_early,2019-04-22 00:00:00.000,2019-04-16 00:00:00.000,13.0
+"63276",Intense Iguanas,Terrible Ticks,Spark City,Boroughsville,2020-03-02 16:25:00.000,Monday   ,mon_mid,2020-03-02 00:00:00.000,2020-02-25 00:00:00.000,6.0
+"27385",Hopeful Hens,Snappy Snakes,Springfield,Plainsboro,2018-04-04 19:00:00.000,Wednesday,odd_days,2018-04-04 00:00:00.000,2018-04-03 00:00:00.000,11.0
+"50911",Pirate Poodles,Terrible Ticks,Flat Island,Boroughsville,2018-03-19 13:00:00.000,Monday   ,mon_early,2018-03-19 00:00:00.000,2018-03-13 00:00:00.000,8.0
+"21703",Earnest Eagles,Lightning Lions,Sunny Valley,Springfield,2019-04-02 20:15:00.000,Tuesday  ,tues,2019-04-02 00:00:00.000,2019-04-02 00:00:00.000,11.0
+"79126",Earnest Eagles,Hopeful Hens,Sunny Valley,Springfield,2020-01-31 19:30:00.000,Friday   ,fri,2020-01-31 00:00:00.000,2020-01-28 00:00:00.000,2.0
+"63502",Devious Dandys,Intense Iguanas,Hillsville,Spark City,2020-03-23 13:00:00.000,Monday   ,mon_early,2020-03-23 00:00:00.000,2020-03-17 00:00:00.000,9.0
+"19070",Devious Dandys,Fleeting Felines,Hillsville,Vistatown,2019-03-04 13:00:00.000,Monday   ,mon_early,2019-03-04 00:00:00.000,2019-02-26 00:00:00.000,6.0
+"21578",Wonder Whales,Pirate Poodles,Rose Station,Flat Island,2019-03-11 13:00:00.000,Monday   ,mon_early,2019-03-11 00:00:00.000,2019-03-05 00:00:00.000,7.0
+"50908",Fleeting Felines,Bellicose Bluejays,Vistatown,Vistatown,2018-03-17 01:22:00.000,Saturday ,odd_days,2018-03-17 00:00:00.000,2018-03-13 00:00:00.000,8.0
+"51034",Bellicose Bluejays,Pirate Poodles,Vistatown,Flat Island,2018-06-11 13:00:00.000,Monday   ,mon_early,2018-06-11 00:00:00.000,2018-06-05 00:00:00.000,20.0
+"51055",Devilish Deer ,Intense Iguanas,Alterburg,Spark City,2018-06-25 16:25:00.000,Monday   ,mon_mid,2018-06-25 00:00:00.000,2018-06-19 00:00:00.000,22.0
+"21829",Terrible Ticks,Devilish Deer ,Boroughsville,Alterburg,2019-05-06 20:20:00.000,Monday   ,mon_late,2019-05-06 00:00:00.000,2019-04-30 00:00:00.000,15.0
+"71765",Hopeful Hens,Hungry Harpys,Springfield,Regensland,2019-07-14 16:30:00.000,Sunday   ,sun,2019-07-14 00:00:00.000,2019-07-09 00:00:00.000,25.0
+"22884",Earnest Eagles,Devilish Deer ,Sunny Valley,Alterburg,2018-03-20 20:15:00.000,Tuesday  ,tues,2018-03-20 00:00:00.000,2018-03-20 00:00:00.000,9.0
+"79803",Ramblin Rabbits,Intense Iguanas,Alterburg,Spark City,2018-04-23 16:05:00.000,Monday   ,mon_mid,2018-04-23 00:00:00.000,2018-04-17 00:00:00.000,13.0
+"50899",Hopeful Hens,Fleeting Felines,Springfield,Vistatown,2018-03-12 13:00:00.000,Monday   ,mon_early,2018-03-12 00:00:00.000,2018-03-06 00:00:00.000,7.0
+"50977",Intense Iguanas,Terrible Ticks,Spark City,Boroughsville,2018-04-30 16:05:00.000,Monday   ,mon_mid,2018-04-30 00:00:00.000,2018-04-24 00:00:00.000,14.0
+"50991",Devious Dandys,Pirate Poodles,Hillsville,Flat Island,2018-05-14 13:00:00.000,Monday   ,mon_early,2018-05-14 00:00:00.000,2018-05-08 00:00:00.000,16.0
+"51016",Devious Dandys,Lightning Lions,Hillsville,Springfield,2018-05-28 13:00:00.000,Monday   ,mon_early,2018-05-28 00:00:00.000,2018-05-22 00:00:00.000,18.0
+"33709",Devilish Deer ,Cyclic Cobras,Alterburg,Soot Mountain,2018-07-09 15:05:00.000,Monday   ,mon_mid,2018-07-09 00:00:00.000,2018-07-03 00:00:00.000,24.0
+"21717",Lightning Lions,Devious Dandys,Springfield,Hillsville,2019-04-08 13:00:00.000,Monday   ,mon_early,2019-04-08 00:00:00.000,2019-04-02 00:00:00.000,11.0
+"21836",Lightning Lions,Fleeting Felines,Springfield,Vistatown,2019-05-06 13:00:00.000,Monday   ,mon_early,2019-05-06 00:00:00.000,2019-04-30 00:00:00.000,15.0
+"51041",Hungry Harpys,Lucky Leopards,Regensland,Regensland,2018-06-12 20:15:00.000,Tuesday  ,tues,2018-06-12 00:00:00.000,2018-06-12 00:00:00.000,21.0
+"21619",Bellicose Bluejays,Lightning Lions,Vistatown,Springfield,2019-03-25 13:00:00.000,Monday   ,mon_early,2019-03-25 00:00:00.000,2019-03-19 00:00:00.000,9.0
+"20016",Fleeting Felines,Bellicose Bluejays,Vistatown,Vistatown,2019-04-08 09:30:00.000,Monday   ,mon_early,2019-04-08 00:00:00.000,2019-04-02 00:00:00.000,11.0
+"21851",Hopeful Hens,Devious Dandys,Springfield,Hillsville,2019-05-13 13:00:00.000,Monday   ,mon_early,2019-05-13 00:00:00.000,2019-05-07 00:00:00.000,16.0
+"21865",Ramblin Rabbits,Intense Iguanas,Alterburg,Spark City,2019-05-20 16:05:00.000,Monday   ,mon_mid,2019-05-20 00:00:00.000,2019-05-14 00:00:00.000,17.0
+"63510",Hungry Harpys,Bellicose Bluejays,Regensland,Vistatown,2020-03-20 20:15:00.000,Friday   ,fri,2020-03-20 00:00:00.000,2020-03-17 00:00:00.000,9.0
+"16488",Wonder Whales,Terrible Ticks,Rose Station,Boroughsville,2018-05-28 13:00:00.000,Monday   ,mon_early,2018-05-28 00:00:00.000,2018-05-22 00:00:00.000,18.0
+"51018",Intense Iguanas,Pirate Poodles,Spark City,Flat Island,2018-05-28 16:25:00.000,Monday   ,mon_mid,2018-05-28 00:00:00.000,2018-05-22 00:00:00.000,18.0
+"51039",Ramblin Rabbits,Snappy Snakes,Alterburg,Plainsboro,2018-06-10 16:30:00.000,Sunday   ,sun,2018-06-10 00:00:00.000,2018-06-05 00:00:00.000,20.0
+"16489",Wonder Whales,Cyclic Cobras,Rose Station,Soot Mountain,2018-06-18 13:00:00.000,Monday   ,mon_early,2018-06-18 00:00:00.000,2018-06-12 00:00:00.000,21.0
+"21786",Earnest Eagles,Hungry Harpys,Sunny Valley,Regensland,2019-04-15 13:00:00.000,Monday   ,mon_early,2019-04-15 00:00:00.000,2019-04-09 00:00:00.000,12.0
+"21938",Intense Iguanas,Ramblin Rabbits,Spark City,Alterburg,2019-06-24 16:05:00.000,Monday   ,mon_mid,2019-06-24 00:00:00.000,2019-06-18 00:00:00.000,22.0
+"21957",Cyclic Cobras,Hungry Harpys,Soot Mountain,Regensland,2019-07-01 13:00:00.000,Monday   ,mon_early,2019-07-01 00:00:00.000,2019-06-25 00:00:00.000,23.0
+"23181",Ramblin Rabbits,Bellicose Bluejays,Alterburg,Vistatown,2018-05-14 16:05:00.000,Monday   ,mon_mid,2018-05-14 00:00:00.000,2018-05-08 00:00:00.000,16.0
+"21902",Lightning Lions,Pirate Poodles,Springfield,Flat Island,2019-06-09 20:15:00.000,Sunday   ,sun,2019-06-09 00:00:00.000,2019-06-04 00:00:00.000,20.0
+"63499",Earnest Eagles,Snappy Snakes,Sunny Valley,Plainsboro,2020-03-23 13:00:00.000,Monday   ,mon_early,2020-03-23 00:00:00.000,2020-03-17 00:00:00.000,9.0
+"50965",Hungry Harpys,Hopeful Hens,Regensland,Springfield,2018-04-23 13:00:00.000,Monday   ,mon_early,2018-04-23 00:00:00.000,2018-04-17 00:00:00.000,13.0
+"16275",Hopeful Hens,Earnest Eagles,Springfield,Sunny Valley,2018-07-02 13:05:00.000,Monday   ,mon_early,2018-07-02 00:00:00.000,2018-06-26 00:00:00.000,23.0
+"51257",Terrible Ticks,Fleeting Felines,Boroughsville,Vistatown,2020-01-24 21:00:00.000,Friday   ,fri,2020-01-24 00:00:00.000,2020-01-21 00:00:00.000,1.0
+"79132",Snappy Snakes,Ramblin Rabbits,Plainsboro,Alterburg,2020-02-09 13:00:00.000,Sunday   ,sun,2020-02-09 00:00:00.000,2020-02-04 00:00:00.000,3.0
+"51030",Cyclic Cobras,Earnest Eagles,Soot Mountain,Sunny Valley,2018-06-05 20:15:00.000,Tuesday  ,tues,2018-06-05 00:00:00.000,2018-06-05 00:00:00.000,20.0
+"16273",Lucky Leopards,Cyclic Cobras,Regensland,Soot Mountain,2018-07-02 20:15:00.000,Monday   ,mon_late,2018-07-02 00:00:00.000,2018-06-26 00:00:00.000,23.0
+"21954",Devious Dandys,Hopeful Hens,Hillsville,Springfield,2019-07-01 13:00:00.000,Monday   ,mon_early,2019-07-01 00:00:00.000,2019-06-25 00:00:00.000,23.0
+"63284",Fleeting Felines,Lightning Lions,Vistatown,Springfield,2020-03-09 13:00:00.000,Monday   ,mon_early,2020-03-09 00:00:00.000,2020-03-03 00:00:00.000,7.0
+"50928",Terrible Ticks,Snappy Snakes,Boroughsville,Plainsboro,2018-03-26 16:25:00.000,Monday   ,mon_mid,2018-03-26 00:00:00.000,2018-03-20 00:00:00.000,9.0
+"16562",Lightning Lions,Hopeful Hens,Springfield,Springfield,2018-05-21 13:00:00.000,Monday   ,mon_early,2018-05-21 00:00:00.000,2018-05-15 00:00:00.000,17.0
+"21905",Lucky Leopards,Hopeful Hens,Regensland,Springfield,2019-06-10 13:00:00.000,Monday   ,mon_early,2019-06-10 00:00:00.000,2019-06-04 00:00:00.000,20.0
+"21918",Wonder Whales,Fleeting Felines,Rose Station,Vistatown,2019-06-17 13:00:00.000,Monday   ,mon_early,2019-06-17 00:00:00.000,2019-06-11 00:00:00.000,21.0
+"79131",Bellicose Bluejays,Terrible Ticks,Vistatown,Boroughsville,2020-02-09 19:00:00.000,Sunday   ,sun,2020-02-09 00:00:00.000,2020-02-04 00:00:00.000,3.0
+"16486",Wonder Whales,Bellicose Bluejays,Rose Station,Vistatown,2018-05-21 13:00:00.000,Monday   ,mon_early,2018-05-21 00:00:00.000,2018-05-15 00:00:00.000,17.0
+"50902",Bellicose Bluejays,Snappy Snakes,Vistatown,Plainsboro,2018-03-12 18:00:00.000,Monday   ,mon_mid,2018-03-12 00:00:00.000,2018-03-06 00:00:00.000,7.0
+"50954",Hungry Harpys,Cyclic Cobras,Regensland,Soot Mountain,2018-04-16 13:00:00.000,Monday   ,mon_early,2018-04-16 00:00:00.000,2018-04-10 00:00:00.000,12.0
+"16485",Wonder Whales,Snappy Snakes,Rose Station,Plainsboro,2018-04-16 13:00:00.000,Monday   ,mon_early,2018-04-16 00:00:00.000,2018-04-10 00:00:00.000,12.0
+"21920",Devious Dandys,Intense Iguanas,Hillsville,Spark City,2019-06-17 13:00:00.000,Monday   ,mon_early,2019-06-17 00:00:00.000,2019-06-11 00:00:00.000,21.0
+"21923",Devilish Deer ,Lucky Leopards,Alterburg,Regensland,2019-06-17 16:25:00.000,Monday   ,mon_mid,2019-06-17 00:00:00.000,2019-06-11 00:00:00.000,21.0
+"50924",Hungry Harpys,Fleeting Felines,Regensland,Vistatown,2018-03-26 18:00:00.000,Monday   ,mon_mid,2018-03-26 00:00:00.000,2018-03-20 00:00:00.000,9.0
+"50973",Lightning Lions,Earnest Eagles,Springfield,Sunny Valley,2018-04-30 13:00:00.000,Monday   ,mon_early,2018-04-30 00:00:00.000,2018-04-24 00:00:00.000,14.0
+"51024",Fleeting Felines,Hopeful Hens,Vistatown,Springfield,2018-06-04 13:00:00.000,Monday   ,mon_early,2018-06-04 00:00:00.000,2018-05-29 00:00:00.000,19.0
+"79128",Fleeting Felines,Lucky Leopards,Vistatown,Regensland,2020-02-09 19:00:00.000,Sunday   ,sun,2020-02-09 00:00:00.000,2020-02-04 00:00:00.000,3.0
+"50980",Hopeful Hens,Lightning Lions,Springfield,Springfield,2018-05-04 20:20:00.000,Friday   ,fri,2018-05-04 00:00:00.000,2018-05-01 00:00:00.000,15.0
+"19072",Snappy Snakes,Lucky Leopards,Plainsboro,Regensland,2019-03-04 13:00:00.000,Monday   ,mon_early,2019-03-04 00:00:00.000,2019-02-26 00:00:00.000,6.0
+"50939",Cyclic Cobras,Lightning Lions,Soot Mountain,Springfield,2018-04-02 21:25:00.000,Monday   ,mon_late,2018-04-02 00:00:00.000,2018-03-27 00:00:00.000,10.0
+"21580",Bellicose Bluejays,Snappy Snakes,Vistatown,Plainsboro,2019-03-11 13:00:00.000,Monday   ,mon_early,2019-03-11 00:00:00.000,2019-03-05 00:00:00.000,7.0
+"21777",Cyclic Cobras,Ramblin Rabbits,Soot Mountain,Alterburg,2019-04-12 20:20:00.000,Friday   ,fri,2019-04-12 00:00:00.000,2019-04-09 00:00:00.000,12.0
+"21916",Pirate Poodles,Snappy Snakes,Flat Island,Plainsboro,2019-06-17 13:00:00.000,Monday   ,mon_early,2019-06-17 00:00:00.000,2019-06-11 00:00:00.000,21.0
+"16559",Lucky Leopards,Cyclic Cobras,Regensland,Soot Mountain,2018-04-09 13:00:00.000,Monday   ,mon_early,2018-04-09 00:00:00.000,2018-04-03 00:00:00.000,11.0
+"54769",Devilish Deer ,Snappy Snakes,Alterburg,Plainsboro,2018-07-16 18:40:00.000,Monday   ,mon_mid,2018-07-16 00:00:00.000,2018-07-10 00:00:00.000,25.0
+"19079",Terrible Ticks,Earnest Eagles,Boroughsville,Sunny Valley,2019-03-05 20:15:00.000,Tuesday  ,tues,2019-03-05 00:00:00.000,2019-03-05 00:00:00.000,7.0
+"21583",Lucky Leopards,Terrible Ticks,Regensland,Boroughsville,2019-03-11 13:00:00.000,Monday   ,mon_early,2019-03-11 00:00:00.000,2019-03-05 00:00:00.000,7.0
+"51003",Fleeting Felines,Cyclic Cobras,Vistatown,Soot Mountain,2018-05-21 13:00:00.000,Monday   ,mon_early,2018-05-21 00:00:00.000,2018-05-15 00:00:00.000,17.0
+"98559",Fleeting Felines,Cyclic Cobras,Vistatown,Soot Mountain,2019-02-03 19:00:00.000,Sunday   ,sun,2019-02-03 00:00:00.000,2019-01-29 00:00:00.000,2.0
+"21863",Hungry Harpys,Lucky Leopards,Regensland,Regensland,2019-05-20 13:00:00.000,Monday   ,mon_early,2019-05-20 00:00:00.000,2019-05-14 00:00:00.000,17.0
+"21625",Ramblin Rabbits,Earnest Eagles,Alterburg,Sunny Valley,2019-03-25 16:25:00.000,Monday   ,mon_mid,2019-03-25 00:00:00.000,2019-03-19 00:00:00.000,9.0
+"37992",Devilish Deer ,Intense Iguanas,Alterburg,Spark City,2020-03-06 20:15:00.000,Friday   ,fri,2020-03-06 00:00:00.000,2020-03-03 00:00:00.000,7.0
+"21636",Fleeting Felines,Hopeful Hens,Vistatown,Springfield,2019-04-01 13:00:00.000,Monday   ,mon_early,2019-04-01 00:00:00.000,2019-03-26 00:00:00.000,10.0
+"21898",Bellicose Bluejays,Wonder Whales,Vistatown,Rose Station,2019-06-10 13:00:00.000,Monday   ,mon_early,2019-06-10 00:00:00.000,2019-06-04 00:00:00.000,20.0
+"51038",Earnest Eagles,Fleeting Felines,Sunny Valley,Vistatown,2018-06-11 13:00:00.000,Monday   ,mon_early,2018-06-11 00:00:00.000,2018-06-05 00:00:00.000,20.0
+"21595",Hopeful Hens,Lightning Lions,Springfield,Springfield,2019-03-18 13:00:00.000,Monday   ,mon_early,2019-03-18 00:00:00.000,2019-03-12 00:00:00.000,8.0
+"21637",Intense Iguanas,Cyclic Cobras,Spark City,Soot Mountain,2019-04-01 16:05:00.000,Monday   ,mon_mid,2019-04-01 00:00:00.000,2019-03-26 00:00:00.000,10.0
+"51044",Devious Dandys,Hungry Harpys,Hillsville,Regensland,2018-06-18 13:00:00.000,Monday   ,mon_early,2018-06-18 00:00:00.000,2018-06-12 00:00:00.000,21.0
+"21634",Lucky Leopards,Ramblin Rabbits,Regensland,Alterburg,2019-04-01 13:00:00.000,Monday   ,mon_early,2019-04-01 00:00:00.000,2019-03-26 00:00:00.000,10.0
+"63207",Wonder Whales,Earnest Eagles,Rose Station,Sunny Valley,2020-03-02 13:00:00.000,Monday   ,mon_early,2020-03-02 00:00:00.000,2020-02-25 00:00:00.000,6.0
+"16557",Lucky Leopards,Earnest Eagles,Regensland,Sunny Valley,2018-05-18 20:20:00.000,Friday   ,fri,2018-05-18 00:00:00.000,2018-05-15 00:00:00.000,17.0
+"16487",Wonder Whales,Ramblin Rabbits,Rose Station,Alterburg,2018-03-23 20:20:00.000,Friday   ,fri,2018-03-23 00:00:00.000,2018-03-20 00:00:00.000,9.0
+"21605",Terrible Ticks,Bellicose Bluejays,Boroughsville,Vistatown,2019-03-18 16:05:00.000,Monday   ,mon_mid,2019-03-18 00:00:00.000,2019-03-12 00:00:00.000,8.0
+"21960",Ramblin Rabbits,Devilish Deer ,Alterburg,Alterburg,2019-06-30 16:30:00.000,Sunday   ,sun,2019-06-30 00:00:00.000,2019-06-25 00:00:00.000,23.0
+"63523",Cyclic Cobras,Lucky Leopards,Soot Mountain,Regensland,2020-03-13 20:15:00.000,Friday   ,fri,2020-03-13 00:00:00.000,2020-03-10 00:00:00.000,8.0
+"48718",Hopeful Hens,Lucky Leopards,Springfield,Regensland,2018-04-16 13:00:00.000,Monday   ,mon_early,2018-04-16 00:00:00.000,2018-04-10 00:00:00.000,12.0
+"51002",Snappy Snakes,Intense Iguanas,Plainsboro,Spark City,2018-05-21 13:00:00.000,Monday   ,mon_early,2018-05-21 00:00:00.000,2018-05-15 00:00:00.000,17.0
+"21627",Intense Iguanas,Terrible Ticks,Spark City,Boroughsville,2019-03-26 20:15:00.000,Tuesday  ,tues,2019-03-26 00:00:00.000,2019-03-26 00:00:00.000,10.0
+"21908",Ramblin Rabbits,Hungry Harpys,Alterburg,Regensland,2019-06-10 16:05:00.000,Monday   ,mon_mid,2019-06-10 00:00:00.000,2019-06-04 00:00:00.000,20.0
+"63518",Ramblin Rabbits,Lightning Lions,Alterburg,Springfield,2020-03-27 20:15:00.000,Friday   ,fri,2020-03-27 00:00:00.000,2020-03-24 00:00:00.000,10.0
+"16484",Wonder Whales,Pirate Poodles,Rose Station,Flat Island,2018-05-01 20:15:00.000,Tuesday  ,tues,2018-05-01 00:00:00.000,2018-05-01 00:00:00.000,15.0
+"21838",Pirate Poodles,Cyclic Cobras,Flat Island,Soot Mountain,2019-05-06 13:00:00.000,Monday   ,mon_early,2019-05-06 00:00:00.000,2019-04-30 00:00:00.000,15.0
+"21932",Lightning Lions,Terrible Ticks,Springfield,Boroughsville,2019-06-24 13:00:00.000,Monday   ,mon_early,2019-06-24 00:00:00.000,2019-06-18 00:00:00.000,22.0
+"88376",Devilish Deer ,Hungry Harpys,Alterburg,Regensland,2019-07-22 15:00:00.000,Monday   ,mon_mid,2019-07-22 00:00:00.000,2019-07-16 00:00:00.000,26.0
+"63528",Intense Iguanas,Fleeting Felines,Spark City,Vistatown,2020-03-16 16:05:00.000,Monday   ,mon_mid,2020-03-16 00:00:00.000,2020-03-10 00:00:00.000,8.0
+"92211",Lucky Leopards,Earnest Eagles,Regensland,Sunny Valley,2018-05-21 13:00:00.000,Monday   ,mon_early,2018-05-21 00:00:00.000,2018-05-15 00:00:00.000,17.0
+"50967",Snappy Snakes,Pirate Poodles,Plainsboro,Flat Island,2018-04-23 13:00:00.000,Monday   ,mon_early,2018-04-23 00:00:00.000,2018-04-17 00:00:00.000,13.0
+"64623",Terrible Ticks,Bellicose Bluejays,Boroughsville,Vistatown,2018-06-17 20:15:00.000,Sunday   ,sun,2018-06-17 00:00:00.000,2018-06-12 00:00:00.000,21.0
+"16492",Pirate Poodles,Wonder Whales,Flat Island,Rose Station,2018-06-25 13:00:00.000,Monday   ,mon_early,2018-06-25 00:00:00.000,2018-06-19 00:00:00.000,22.0
+"21930",Hopeful Hens,Bellicose Bluejays,Springfield,Vistatown,2019-06-24 13:00:00.000,Monday   ,mon_early,2019-06-24 00:00:00.000,2019-06-18 00:00:00.000,22.0
+"63280",Earnest Eagles,Bellicose Bluejays,Sunny Valley,Vistatown,2020-03-09 13:00:00.000,Monday   ,mon_early,2020-03-09 00:00:00.000,2020-03-03 00:00:00.000,7.0
+"50953",Earnest Eagles,Lucky Leopards,Sunny Valley,Regensland,2018-04-06 14:00:00.000,Friday   ,fri,2018-04-06 00:00:00.000,2018-04-03 00:00:00.000,11.0
+"22843",Bellicose Bluejays,Intense Iguanas,Vistatown,Spark City,2018-05-07 16:05:00.000,Monday   ,mon_mid,2018-05-07 00:00:00.000,2018-05-01 00:00:00.000,15.0
+"21631",Devious Dandys,Pirate Poodles,Hillsville,Flat Island,2019-04-01 13:00:00.000,Monday   ,mon_early,2019-04-01 00:00:00.000,2019-03-26 00:00:00.000,10.0
+"21805",Lightning Lions,Hopeful Hens,Springfield,Springfield,2019-04-22 13:00:00.000,Monday   ,mon_early,2019-04-22 00:00:00.000,2019-04-16 00:00:00.000,13.0
+"21819",Fleeting Felines,Snappy Snakes,Vistatown,Plainsboro,2019-04-29 13:00:00.000,Monday   ,mon_early,2019-04-29 00:00:00.000,2019-04-23 00:00:00.000,14.0
+"21856",Earnest Eagles,Cyclic Cobras,Sunny Valley,Soot Mountain,2019-05-20 20:20:00.000,Monday   ,mon_late,2019-05-20 00:00:00.000,2019-05-14 00:00:00.000,17.0
+"21831",Bellicose Bluejays,Earnest Eagles,Vistatown,Sunny Valley,2019-05-03 20:20:00.000,Friday   ,fri,2019-05-03 00:00:00.000,2019-04-30 00:00:00.000,15.0
+"21880",Snappy Snakes,Pirate Poodles,Plainsboro,Flat Island,2019-05-28 20:15:00.000,Tuesday  ,tues,2019-05-28 00:00:00.000,2019-05-28 00:00:00.000,19.0
+"21956",Snappy Snakes,Wonder Whales,Plainsboro,Rose Station,2019-07-01 16:25:00.000,Monday   ,mon_mid,2019-07-01 00:00:00.000,2019-06-25 00:00:00.000,23.0
+"21958",Terrible Ticks,Intense Iguanas,Boroughsville,Spark City,2019-07-01 20:20:00.000,Monday   ,mon_late,2019-07-01 00:00:00.000,2019-06-25 00:00:00.000,23.0
+"51019",Devilish Deer ,Ramblin Rabbits,Alterburg,Alterburg,2018-05-28 20:20:00.000,Monday   ,mon_late,2018-05-28 00:00:00.000,2018-05-22 00:00:00.000,18.0
+"21943",Lucky Leopards,Cyclic Cobras,Regensland,Soot Mountain,2019-06-25 20:15:00.000,Tuesday  ,tues,2019-06-25 00:00:00.000,2019-06-25 00:00:00.000,23.0
+"21946",Fleeting Felines,Lightning Lions,Vistatown,Springfield,2019-07-01 13:00:00.000,Monday   ,mon_early,2019-07-01 00:00:00.000,2019-06-25 00:00:00.000,23.0
+"79143",Terrible Ticks,Pirate Poodles,Boroughsville,Flat Island,2020-02-15 20:15:00.000,Saturday ,odd_days,2020-02-15 00:00:00.000,2020-02-11 00:00:00.000,4.0
+"63507",Fleeting Felines,Devious Dandys,Vistatown,Hillsville,2020-03-30 13:00:00.000,Monday   ,mon_early,2020-03-30 00:00:00.000,2020-03-24 00:00:00.000,10.0
+"51045",Intense Iguanas,Ramblin Rabbits,Spark City,Alterburg,2018-06-18 16:05:00.000,Monday   ,mon_mid,2018-06-18 00:00:00.000,2018-06-12 00:00:00.000,21.0
+"51021",Bellicose Bluejays,Devilish Deer ,Vistatown,Alterburg,2018-06-04 13:00:00.000,Monday   ,mon_early,2018-06-04 00:00:00.000,2018-05-29 00:00:00.000,19.0
+"21579",Fleeting Felines,Ramblin Rabbits,Vistatown,Alterburg,2019-03-11 13:00:00.000,Monday   ,mon_early,2019-03-11 00:00:00.000,2019-03-05 00:00:00.000,7.0
+"21729",Earnest Eagles,Intense Iguanas,Sunny Valley,Spark City,2019-04-08 13:00:00.000,Monday   ,mon_early,2019-04-08 00:00:00.000,2019-04-02 00:00:00.000,11.0
+"21832",Wonder Whales,Snappy Snakes,Rose Station,Plainsboro,2019-05-06 13:00:00.000,Monday   ,mon_early,2019-05-06 00:00:00.000,2019-04-30 00:00:00.000,15.0
+"50948",Ramblin Rabbits,Bellicose Bluejays,Alterburg,Vistatown,2018-04-03 00:00:00.000,Tuesday  ,tues,2018-04-03 00:00:00.000,2018-04-03 00:00:00.000,11.0
+"21872",Devilish Deer ,Ramblin Rabbits,Alterburg,Alterburg,2019-05-27 20:20:00.000,Monday   ,mon_late,2019-05-27 00:00:00.000,2019-05-21 00:00:00.000,18.0
+"63520",Bellicose Bluejays,Snappy Snakes,Vistatown,Plainsboro,2020-03-16 13:00:00.000,Monday   ,mon_early,2020-03-16 00:00:00.000,2020-03-10 00:00:00.000,8.0
+"63485",Cyclic Cobras,Pirate Poodles,Soot Mountain,Flat Island,2020-04-06 13:00:00.000,Monday   ,mon_early,2020-04-06 00:00:00.000,2020-03-31 00:00:00.000,11.0
