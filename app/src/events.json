@@ -1,0 +1,44 @@
+{
+  "events": [
+  {
+    "home_team": "Lightning Lions",
+    "away_team": "Fleeting Felines",
+    "time_slot": "mon_early",
+    "week_of_season": 11,
+    "home_users": 0,
+    "away_users": 1282,
+    "all_users": 1282,
+    "all_registered": 80000
+  },
+  {
+    "home_team": "Cyclic Cobras",
+    "away_team": "Pirate Poodles",
+    "time_slot": "mon_early",
+    "week_of_season": 11,
+    "home_users": 0,
+    "away_users": 0,
+    "all_users": 0,
+    "all_registered": 80000
+  },
+  {
+    "home_team": "Devilish Deer",
+    "away_team": "Snappy Snakes",
+    "time_slot": "mon_mid",
+    "week_of_season": 11,
+    "home_users": 11369,
+    "away_users": 0,
+    "all_users": 11369,
+    "all_registered": 80000
+  },
+  {
+    "home_team": "Devilish Deer",
+    "away_team": "Terrible Ticks",
+    "time_slot": "tues",
+    "week_of_season": 11,
+    "home_users": 11318,
+    "away_users": 12014,
+    "all_users": 23332,
+    "all_registered": 80000
+  }
+]
+}

@@ -1,0 +1,6 @@
+env                   = "dev"
+property              = "data"
+terraform_role        = "arn:aws:iam::843113528440:role/terraform"
+terraform_shared_role = "arn:aws:iam::173385929429:role/terraform"
+shared_account        = "173385929429"
+aws_region            = "eu-west-1"
