@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "mle-interview-challenge"
+version = "0.1.0"
+description = ""
+authors = ["camrmarquis <camrmarquis@gmail.com>"]
+readme = "README.md"
+packages = [{include = "mle_interview_challenge"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+fastapi = "^0.101.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
