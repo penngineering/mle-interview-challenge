@@ -4,11 +4,9 @@ Sportsball wagering provides a great source of entertainment for the people of B
 
 The Major Sportsball League consists of 16 teams, spread across 12 provinces. Currently, our wagering services cover 4 provinces: Regensland, Alterburg, Vistatown, and Boroughsville.
 
-Our latest addition to the team is Dr. Research, a new data scientist with a strong academic background. Dr. Research has developed a model capable of predicting the amount of money wagered, also known as "handle," on sportsball matches. The model's code is available in the notebook `notebooks/handle_forecast_basic_solution.ipynb`. This notebook includes both SQL queries to fetch features from the provided database and the modeling code.
+Our latest addition to the team is Dr. Research, is a new data scientist with a strong academic background. Dr. Research has developed a model capable of predicting the amount of money wagered, also known as "handle," on sportsball matches. The model's code is available in the notebook `notebooks/handle_forecast_basic_solution.ipynb`. This notebook includes both SQL queries to fetch features from the provided database and the modeling code.
 
-It's important to note that the enterprise database only updates on a daily basis. Additionally, the enterprise database has known quality issues when it comes to accurately calculating total user numbers before an event has occurred. Luckily, the data services team has created an API containing real-time data on sportsball matches directly from the production databases for the upcoming week. (For the purposes of this project, the "upcoming" week refers to week 11 of the 2020 season.) The API's base endpoint is `https://data-dev-api.penngineering.io/sportsball-events`, and its documentation is available at `https://data-dev-api.penngineering.io/sportsball-events/docs`
-
-The finance team has requested the ability to retrieve the most up-to-date forecast on demand.
+The finance team has requested the ability to retrieve the most up-to-date forecast per event on-demand.
 
 Your mission, should you choose to accept it, is to create a deployment strategy for this predictive model. The finance team has only provided loose requirements, giving you creative freedom. While this problem is simplified for time's sake, it mirrors the kind of work we undertake at Penn Interactive/TheScore Bet.
 
@@ -39,7 +37,7 @@ Connection Details:
 * User: `postgres`
 * Password: `postgres`
 
-The database comprises three tables:
+The database is comprised of three tables:
 
 ### `events` (`SELECT * FROM events`) - Sportsball Event Data
 
